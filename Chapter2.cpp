@@ -42,7 +42,7 @@ void reverse(Node *head, Node *prev)
 }
 
 // Q3
-// 将两个有序递增的单链表合并为一个递减的单链表
+// 将两个有序递增的单链表合并为一个递增的单链表
 
 Node *merge(Node *head1, Node *head2)
 {
